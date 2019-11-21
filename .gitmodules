@@ -1,0 +1,12 @@
+[submodule "of"]
+	path = of
+	url = ./external/of
+[submodule "librtlsdr"]
+	path = librtlsdr
+	url = ./external/librtlsdr/
+[submodule "external/of"]
+	path = external/of
+	url = https://github.com/ofnode/of.git
+[submodule "external/librtlsdr"]
+	path = external/librtlsdr
+	url = https://github.com/steve-m/librtlsdr.git
